@@ -11,3 +11,10 @@
  *= require_self
  *= require_tree .
  */
+ 
+$navbar-default-bg: #0f0;
+ 
+body { padding-top: 50px; }
+
+@import "twitter/bootstrap";
+
